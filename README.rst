@@ -1,5 +1,7 @@
 datefinder - extract dates from text
 ====================================
+1) To use this Repo:-> pip install git+https://github.com/rahulsingh04/datefinder
+2) To Know the version :->  pip show datefinder
 
 .. image:: https://github.com/akoumjian/datefinder/actions/workflows/python-package.yml/badge.svg
     :target: https://github.com/akoumjian/datefinder
